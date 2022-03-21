@@ -31,3 +31,12 @@ Discord logs
   <p>Multi-framework support</p>
   <p>Debug mode</p>
   <p>Support more hacking scripts</p>
+<h2> Preview:</h2>
+
+<p>
+
+  https://www.youtube.com/watch?v=opcU9vg_2X8&t=18s
+
+ </p>
+
+  <p>
